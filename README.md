@@ -12,7 +12,7 @@ Este é um script em C que automatiza o procedimento de tornar-se anônimo usand
 1. Compile o script usando um compilador C compatível. Por exemplo:
 
     ```bash
-    gcc -o anonymize ANONYMIZE.C
+    gcc -o anonymize ANONYMIZE.c
     ```
 
 2. Execute o script com permissões de root:
